@@ -8,6 +8,6 @@ Materials that are removed from the EduNet project can be dumped here.
 
 You can think of this repository as a kind of recycle garbage can for ML/DL projects.
 
-*Rules*: No rules al all.
+*Rules*: No rules.
 
 
